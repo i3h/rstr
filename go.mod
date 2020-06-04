@@ -1,1 +1,3 @@
-module github.com/noobly314/rstr
+module github.com/i3h/rstr
+
+go 1.13
